@@ -104,5 +104,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Jaykin/jaykin.github.io.git
-  branch: [master]
-  message: []
+  branch: master
+  message: 
